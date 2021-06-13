@@ -1,0 +1,19 @@
+<annotation>
+    <folder>untitled folder 48</folder>
+    <filename>download (5).jpeg</filename>
+    <size>
+        <width>800</width>
+        <height>600</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>Heating_source</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>185</xmin>
+            <ymin>13</ymin>
+            <xmax>491</xmax>
+            <ymax>383</ymax>
+        </bndbox>
+    </object>
+</annotation>
