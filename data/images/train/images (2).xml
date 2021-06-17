@@ -1,6 +1,6 @@
 <annotation>
-    <folder>untitled folder 47</folder>
-    <filename>download (4).jpeg</filename>
+    <folder>untitled folder 11</folder>
+    <filename>images (2).jpg</filename>
     <size>
         <width>300</width>
         <height>300</height>
@@ -10,10 +10,10 @@
         <name>heat</name>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>117</xmin>
-            <ymin>191</ymin>
-            <xmax>189</xmax>
-            <ymax>248</ymax>
+            <xmin>207</xmin>
+            <ymin>3</ymin>
+            <xmax>243</xmax>
+            <ymax>127</ymax>
         </bndbox>
     </object>
 </annotation>
